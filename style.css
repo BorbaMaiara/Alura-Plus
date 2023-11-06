@@ -8,3 +8,7 @@ body {
     basckground-color: var(--cor-de-fundo);
     color: var (--branco-principa );
 }
+* {
+    margin: 0;
+    padding: 0;
+}
